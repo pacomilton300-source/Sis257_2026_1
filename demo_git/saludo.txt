@@ -1,3 +1,2 @@
-hola mundo
-cat saludo.txt!
-cat saludo.txt!
+hola mundo	
+Practicando Git y GitHub	
